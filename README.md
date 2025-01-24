@@ -1,4 +1,4 @@
-# Multiple-disease-Predictor 
+# Diagnosis Intelligence
 ( WebApp Link : https://project1py-bd55wagfwkfaazevgn2icr.streamlit.app/ )
 
 **Short Description**
